@@ -66,5 +66,5 @@ def sasuke_mission():
 
 <img src="tupian/pic2.png" alt="NLP架构图" width="200">
 
-在VScode使用虚拟环境
+在IDE使用虚拟环境
 <img src="tupian/pic.png" alt="图片" width="200">
